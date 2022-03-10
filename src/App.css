@@ -1,0 +1,21 @@
+/* נשתמש בו להמשך לדברים שלנו כללים */
+body{
+  background-color: rgba(0, 0, 0, 0.384);
+}
+header{
+  min-height: 80px;
+  background: grey;
+  color:white;
+  display: flex;
+  align-items: center;
+  padding:8px;
+}
+
+header a{
+  color:white;
+  padding:0 8px;
+}
+.pic:hover{
+  background-color: wheat;
+  color: black;
+}
